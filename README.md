@@ -77,14 +77,10 @@ Contributions to the Bootloader Project are welcome! Follow these guidelines:
 - Write tests for your changes.
 - Submit a pull request with a clear description.
 
-## Support
-
-For assistance or support, refer to the [documentation](https://github.com/yourusername/bootloader-project/wiki) or open an [issue](https://github.com/yourusername/bootloader-project/issues).
-
 ## Project Status
 
 The Bootloader Project is actively maintained and developed. Feedback, bug reports, and feature requests are welcome.
 
 ## Feedback
 
-We value your feedback! Contact us at [contact@bootloaderproject.com] with any suggestions or concerns.
+We value your feedback! Contact me at [LinkedIn](https://www.linkedin.com/in/seif-ahmed-a27125227/) with any suggestions or concerns.
