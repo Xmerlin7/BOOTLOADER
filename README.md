@@ -50,6 +50,24 @@ Verifies the integrity of the firmware image before loading.
 
 Returns the version information of the bootloader.
 
+## Host Script (host.py)
+
+The `host.py` script facilitates communication with the bootloader of the embedded system. It offers various commands, including retrieving bootloader information, loading firmware, erasing flash memory, and more.
+
+### Features
+
+- Retrieve bootloader version
+- Load and execute firmware
+- Erase flash memory
+- Check for bootloader updates
+- Verify firmware integrity
+
+### Usage
+
+1. Ensure the bootloader is running and accessible via serial communication.
+2. Run the `host.py` script with appropriate command-line arguments to execute desired actions.
+3. Follow the prompts and instructions provided by the script.
+
 ## Contributing
 
 Contributions to the Bootloader Project are welcome! Follow these guidelines:
@@ -59,6 +77,9 @@ Contributions to the Bootloader Project are welcome! Follow these guidelines:
 - Write tests for your changes.
 - Submit a pull request with a clear description.
 
+## Support
+
+For assistance or support, refer to the [documentation](https://github.com/yourusername/bootloader-project/wiki) or open an [issue](https://github.com/yourusername/bootloader-project/issues).
 
 ## Project Status
 
