@@ -53,7 +53,9 @@ Returns the version information of the bootloader.
 ## Host Script (host.py)
 
 The `host.py` script facilitates communication with the bootloader of the embedded system. It offers various commands, including retrieving bootloader information, loading firmware, erasing flash memory, and more.
-
+- `python Host.py`
+- next line insert the port of your device
+- enter the command code of the process you want.
 ### Features
 
 - Retrieve bootloader version
