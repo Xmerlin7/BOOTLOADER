@@ -16,7 +16,7 @@ The Bootloader Project is a lightweight and efficient bootloader designed for em
 
 To use the Bootloader Project:
 
-1. Clone the repository: `git clone https://github.com/yourusername/bootloader-project.git`
+1. Clone the repository: `git clone https://github.com/Xmerlin7/BOOTLOADER.git`
 2. Navigate to the project directory: `cd bootloader-project`
 3. Configure the bootloader by editing `config.h`.
 4. Build the bootloader.
